@@ -94,3 +94,6 @@ cd project/
 pg_dump -cC --inserts -U freecodecamp universe > /project/universe.sql
 ls --color=auto
 pg_dump -cC --inserts -U freecodecamp universe > ./universe.sql
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/vscode/bin/linux-x64/10c8e557c8b9f9ed0a87f61f1c9a44bde731c409/node' -p '"b13b972c7967" + JSON.stringify(process.env) + "b13b972c7967"'
